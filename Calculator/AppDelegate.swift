@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Jinhyang on 2020/03/04.
-//  Copyright © 2020 Jinhyang. All rights reserved.
+//  Created by 이선호 on 2022/06/17.
+//  Copyright © 2022 이선호. All rights reserved.
 //
 
 import UIKit
